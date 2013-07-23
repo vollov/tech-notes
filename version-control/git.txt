@@ -1,0 +1,6 @@
+[] checkout project from github
+git clone git@github.com:vollov/tech-notes.git
+
+[] push change to remote
+git remote add origin git@github.com:vollov/tech-notes.git
+git push -u origin master 
