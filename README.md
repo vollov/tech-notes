@@ -5,7 +5,6 @@ To store the programming commands and notes.
 
 Create a new repository on the command line
 
-touch README.md
-
-<p>git remote add origin git@github.com:vollov/tech-notes.git</p>
-<p>git push -u origin master</p>
+git clone git@github.com:vollov/tech-notes.git<br>
+git remote add origin git@github.com:vollov/tech-notes.git<br>
+git push -u origin master<br>
