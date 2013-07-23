@@ -7,5 +7,5 @@ Create a new repository on the command line
 
 touch README.md
 
-git remote add origin git@github.com:vollov/tech-notes.git\n
-git push -u origin master\n
+<p>git remote add origin git@github.com:vollov/tech-notes.git</p>
+<p>git push -u origin master</p>
