@@ -1,0 +1,7 @@
+[] add a new project 'Myproject' into CVS
+cd BuildRateRepository
+cvs import -m "create project BuildRateRepository" BuildRateRepository INITIAL start
+cvs co -r HEAD BuildRateRepository
+
+[] make a branch ESB_13-2-2 for project 'Myproject'
+cvs rtag -b -r ESB_13-2-2 Myproject
