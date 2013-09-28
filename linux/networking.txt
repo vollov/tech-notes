@@ -1,0 +1,2 @@
+[] find other node in private network
+arp -a
